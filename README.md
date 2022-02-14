@@ -1,6 +1,6 @@
 # Spatio-temporal modelling and hotspot detection for the spreadof COVID-19 using Mobility and Exposure
 
-Final Project for CSE 8803 (Data Science in Epidemiology)
+Final Project for CSE 8803 (Data Science in Epidemiology) - Find the website [here](https://sites.google.com/view/zpmnet/home) and report [here](https://drive.google.com/file/d/1lsS-gsfcJHTg_OP4-ZMbdcAeUorl0SeK/view).
 
 ## Setting up
 
